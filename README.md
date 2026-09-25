@@ -19,7 +19,8 @@ The document is stored in memory using an array of strings.
 ## Team Members
 
 1. Pramod T
-2. 
+2. Prajwal V
+3. Nitin B
 ---
 
 ## Data Structure
