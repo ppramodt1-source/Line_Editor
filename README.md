@@ -1,31 +1,6 @@
-# Line_Editor
-=======
-# Line_Editor
-# Line_Editor
-# Simple Line Editor in C
+## Collaboration Log
 
-## Project Description
-
-The Simple Line Editor is a command-line text editor developed in C.
-
-It allows users to create and manage a small text document directly from
-the terminal. The editor works with one line at a time and provides commands
-to insert, delete, and display lines.
-
-The document is stored in memory using an array of strings.
-
----
-
-## Team Members
-
-1. Pramod T
-2. Prajwal V
-3. Nitin B
----
-
-## Data Structure
-
-The project uses an **array of strings**:
-
-```c
-char *lines[MAX_LINES];
+* **Pairing Partner:** [nitin]
+* **GitHub Username:** [nitinborale26@git.com]
+* **What we built together:** Added the `greet()` function to `hello.c` and called it from `main()` to display a greeting message.
+* **What I learned:** I learned how to use GitLens to view commit history and line-by-line changes, and how to collaborate using Live Share.
